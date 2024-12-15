@@ -1,0 +1,15 @@
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/bin/Debug/net8.0/TaskTrackerCLI
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/bin/Debug/net8.0/TaskTrackerCLI.deps.json
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/bin/Debug/net8.0/TaskTrackerCLI.runtimeconfig.json
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/bin/Debug/net8.0/TaskTrackerCLI.dll
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/bin/Debug/net8.0/TaskTrackerCLI.pdb
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/TaskTrackerCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/TaskTrackerCLI.AssemblyInfoInputs.cache
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/TaskTrackerCLI.AssemblyInfo.cs
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/TaskTrackerCLI.csproj.CoreCompileInputs.cache
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/TaskTrackerCLI.sourcelink.json
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/TaskTrackerCLI.dll
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/refint/TaskTrackerCLI.dll
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/TaskTrackerCLI.pdb
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/TaskTrackerCLI.genruntimeconfig.cache
+/Users/amer/Desktop/Personal Projects/TaskTracker/TaskTrackerCLI/obj/Debug/net8.0/ref/TaskTrackerCLI.dll
